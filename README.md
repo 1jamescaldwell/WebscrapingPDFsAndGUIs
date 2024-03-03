@@ -10,5 +10,5 @@ Usage:
 
 Notes: 
 * Only works with Google Chrome installed currently.
-* Script automatically installs the latest version of Chrome WebDriver, but if your Google Chrome is an older version, install manually from here: Install Chrome WebDriver compatible with your version of Chrome: https://chromedriver.chromium.org/downloads
+* Script automatically installs the latest version of Chrome WebDriver, but if your Google Chrome is an older version, install manually from here: https://chromedriver.chromium.org/downloads
 * The script may not work if the LEGO website structure changes.
